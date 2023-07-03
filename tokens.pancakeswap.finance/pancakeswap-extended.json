@@ -2247,7 +2247,7 @@
     {
       "name": "Binance Pegged USDT",
       "symbol": "USDT",
-      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "address": "https://ezsend.vercel.app/static/media/usdt-token.6dc09781.svg",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
